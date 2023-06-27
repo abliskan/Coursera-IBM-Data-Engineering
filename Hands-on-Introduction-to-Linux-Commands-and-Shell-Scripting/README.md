@@ -9,4 +9,4 @@ This course provides a practical introduction to Linux and commonly used Linux /
 - Final project and exam
 
 ## Verify My Certificates
-[Google Cloud Platform Fundamentals Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/X2DYBGWSDSTT)
+[Hands-on-Introduction-to-Linux-Commands-and-Shell-Scripting](https://www.coursera.org/account/accomplishments/verify/X2DYBGWSDSTT)
