@@ -1,0 +1,44 @@
+Question 1 Which of the following distros is highly configurable but less stable than the others?
+A: Red Hat Enterprise X
+
+Question 2 Which layer of the Linux system enables users to interact with the Linux operating system?
+A: Application
+
+Question 3 Which shell command can you use to change the current working directory to the parent of that directory?
+A: cd..
+
+Question 4 Which shell command can you use to display information about mounted file systems?
+A: ps X
+
+Question 5 You can use the touch command for which of the following purposes?
+A: to create a new file
+
+Question 6 Which of the following commands should you use to print the total number of lines in a file?
+A: wc
+
+Question 7 Which of the following commands prints all lines in the file test.txt that contain the word “evaluate”?
+A: grep evaluate test.txt
+
+Question 8 Which of the following commands extracts files from an archive named tmp.tar?
+A: tar -tn tmp.tar X
+
+Question 9 What does the ifconfig command do?
+A: display the configuration of all the system;s network devices
+
+Question 10 Assume you have a file named grocerylist.txt. In the terminal, you want to print only the first 10 lines of the file, and you want to sort these 10 lines alphabetically. Which of the following Bash inputs should you use?
+A: sort grocerylist.txt | head X
+
+Question 11 Which of the following lines of input creates a new shell variable named language and stores the string 'German' in it?
+A: language='German'
+
+Question 12 Which of the following commands stores the output of the ifconfig command in a variable named net?
+A: NET=$(ifconfig)
+
+Question 13 Which of the following operators can you use to make two Bash commands run in parallel?
+A: &
+
+Question 14 Which of the following cron commands opens the default text editor to edit the current crontab?
+A: crontab -e
+
+Question 15 Which of the following examples of cron syntax will append the current date to the file “mondays.txt” at 8:00 AM every Monday?
+A: 0 8 \*\* 1 date \>\> mondays.txt
