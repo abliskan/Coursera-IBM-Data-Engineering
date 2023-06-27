@@ -19,7 +19,7 @@ This repository contains my solutions for the assignments of all 13 courses that
 - [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop?specialization=ibm-data-engineer)
 - Data Engineering Capstone Project
 
-## Tools and Technologies
+## 🔨 Tools and Technologies
 The following tools were used to complete this certification:
 - OLTP database - MySQL
 - NoSql database - MongoDB
