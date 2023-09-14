@@ -13,7 +13,6 @@ This repository contains my solutions for the assignments of all 13 courses that
 - [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting?specialization=ibm-data-engineer)
 - [Relational Database Administration (DBA)](https://www.coursera.org/learn/relational-database-administration?specialization=ibm-data-engineer)
 - [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka)
-- [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka)
 - [Getting Started with Data Warehousing and BI Analytics](https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics?specialization=ibm-data-engineer)
 - [Introduction to NoSQL Databases](https://www.coursera.org/learn/introduction-to-nosql-databases?specialization=ibm-data-engineer)
 - [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop?specialization=ibm-data-engineer)
